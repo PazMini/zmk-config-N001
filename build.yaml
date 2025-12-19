@@ -13,9 +13,9 @@
 #
 ---
 include:
-  - board: ProMicro
-    shield: ErgoKeys_left
-  - board: ProMicro
-    shield: ErgoKeys_right
-  - board: ProMicro
+  - board: promicro
+    shield: caldera_left
+  - board: promicro
+    shield: caldera_right
+  - board: promicro
     shield: settings_reset

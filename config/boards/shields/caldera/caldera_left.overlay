@@ -1,4 +1,4 @@
-#include "ErgoKeys.dtsi"
+#include "caldera.dtsi"
 
 &kscan0 {
     col-gpios
