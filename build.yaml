@@ -13,9 +13,9 @@
 #
 ---
 include:
+  - board: ProMicro
+    shield: ErgoKeys_left
   - board: nice_nano_v2
-    shield: caldera_left
-  - board: nice_nano_v2
-    shield: caldera_right
-  - board: nice_nano_v2
+    shield: ErgoKeys_right
+  - board: ProMicro
     shield: settings_reset
