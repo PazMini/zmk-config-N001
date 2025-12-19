@@ -15,7 +15,7 @@
 include:
   - board: ProMicro
     shield: ErgoKeys_left
-  - board: nice_nano_v2
+  - board: ProMicro
     shield: ErgoKeys_right
   - board: ProMicro
     shield: settings_reset
