@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c7ae6e9-2b51-4208-9ecd-fc319faad221" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Kconfig.defconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kconfig.shield" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../boards/shields/.gitkeep" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../corne.conf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../corne.keymap" beforeDir="false" />
